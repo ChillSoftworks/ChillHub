@@ -14,7 +14,7 @@ local PlayerMouse: PlayerMouse = LocalPlayer:GetMouse()
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local hub = library.CreateLib("PornHub | Prison Life | By emplic","BloodTheme")
+local hub = library.CreateLib("Prison Life | By emplic","BloodTheme")
     -- tabs
     local main = hub:NewTab("Main")
     local player = hub:NewTab("Player")
